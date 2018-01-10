@@ -52,7 +52,6 @@ footer {
     footer {
         grid-area: 12 / 2 / 13 / span all;
         flex-direction: row;
-        background-color: 'red'
     }
 
     .logo {
